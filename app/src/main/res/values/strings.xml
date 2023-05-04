@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab-06</string>
+    <string name="new_note">New</string>
+    <string name="edit_note">Edit</string>
+    <string name="delete_note">Delete</string>
+    <string name="title">Title</string>
+    <string name="content_note">Content</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_cancel">Cancel</string>
+</resources>
